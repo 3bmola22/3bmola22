@@ -85,7 +85,7 @@ jobs:
           plugin_leetcode_limit_recent: 2
           plugin_leetcode_limit_skills: 10
           plugin_leetcode_sections: solved
-          plugin_leetcode_user: anxlz
+          plugin_leetcode_user: 3bmola22
           
           plugin_lines: yes
           plugin_lines_history_limit: 1
@@ -105,7 +105,7 @@ jobs:
 
           plugin_posts: yes
           plugin_posts_source: dev.to
-          plugin_posts_user: anxlz
+          plugin_posts_user: 3bmola22v
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
           plugin_posts_limit: 4
@@ -130,7 +130,7 @@ jobs:
           plugin_screenshot_mode: image
           plugin_screenshot_selector: body
           plugin_screenshot_title: Recent Project
-          plugin_screenshot_url: https://anxlz.github.io/SpaceApp/
+          plugin_screenshot_url: https://portfolio-mocha-alpha-98.vercel.app
           plugin_screenshot_viewport: '{"width": 1280, "height": 1280}'
           
           plugin_skyline: yes
