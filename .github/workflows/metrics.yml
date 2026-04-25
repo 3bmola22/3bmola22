@@ -105,7 +105,7 @@ jobs:
 
           plugin_posts: yes
           plugin_posts_source: dev.to
-          plugin_posts_user: 3bmola22v
+          plugin_posts_user: 3bmola22
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
           plugin_posts_limit: 4
