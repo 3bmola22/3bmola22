@@ -25,8 +25,6 @@ jobs:
           config_timezone: Africa/Cairo
           config_twemoji: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
           
           plugin_calendar: yes
           plugin_calendar_limit: 1
@@ -81,12 +79,6 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_indepth: yes
           
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: 3bmola22
-          
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
@@ -139,15 +131,6 @@ jobs:
           plugin_skyline_quality: 1
           plugin_skyline_compatibility: yes
           plugin_skyline_settings: '{"url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}", "ready": "[...document.querySelectorAll(''.display-info span'')].map(span => span.innerText).includes(''${login}'')", "wait": 4, "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"}'
-          
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list, about
-          plugin_sponsors_size: 24
-          plugin_sponsors_title: Sponsor Me!
-          
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount, sponsorships
-          plugin_sponsorships_size: 24
           
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
