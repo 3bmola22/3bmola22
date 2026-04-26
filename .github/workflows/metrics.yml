@@ -111,7 +111,7 @@ jobs:
           
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random, contributors, stargazers, watchers, sponsors
-          plugin_repositories_featured: anxlz/QuizApp
+          plugin_repositories_featured: 3bmola22/Portfolio
           
           plugin_rss: yes
           plugin_rss_source: https://news.ycombinator.com/rss
