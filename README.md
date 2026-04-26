@@ -15,6 +15,8 @@
 
 [<img width="390" align="right" alt="🤍" src="https://raw.githubusercontent.com/3bmola22/3bmola22/main/terminal.svg">](#)
 
+[<img width="390" align="right" alt="🤍" src="https://raw.githubusercontent.com/3bmola22/3bmola22/main/projects.svg">](#)
+
 <br clear="both">
 
 ---
