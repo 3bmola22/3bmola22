@@ -10,11 +10,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Main Metric
-      - name: Main Metrics
+      # Projects Metric
+      - name: Projects Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: main.svg
+          filename: projects.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: 3bmola22
           template: classic
