@@ -1096,14 +1096,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 258mb of code in 10367 edited files across 35 commits</small>
+                <small>estimation from 467mb of code in 19886 edited files across 39 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.13030946085496" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="281.13030946085496" y="0" width="178.86969053914504" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="261.2134542387178" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="261.2134542387178" y="0" width="198.78654576128216" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1117,7 +1117,7 @@
                             <small>
                                 <div>6.14k lines</div>
                                 <div>269 kB</div>
-                                <div>61.12%</div>
+                                <div>56.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1128,9 +1128,9 @@
                                 TSX
                             </div>
                             <small>
-                                <div>5.88k lines</div>
-                                <div>171 kB</div>
-                                <div>38.88%</div>
+                                <div>6.96k lines</div>
+                                <div>204 kB</div>
+                                <div>43.21%</div>
                             </small>
                         </div>
                     </section>
@@ -1232,7 +1232,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            53 Commits
+                            57 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1698,7 +1698,25 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sawe smashes two-hour mark to 'move goalposts for marathon running'</div>
+                                <div class="title">I bought Friendster for $30k – Here's what I'm doing with it</div>
+                                <div class="date">26 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Fast16: High-precision software sabotage 5 years before Stuxnet</div>
+                                <div class="date">26 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race</div>
                                 <div class="date">26 Apr 2026</div>
                             </div>
                         </div>
@@ -1708,24 +1726,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Butterflies are in decline across North America, a look at the Western Monarch</div>
-                                <div class="date">27 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Fast16: Cyberweapon that predates Stuxnet by five years</div>
-                                <div class="date">26 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">1:59:30: Sabastian Sawe Shatters the 2-Hour Barrier at 2026 London Marathon</div>
                                 <div class="date">27 Apr 2026</div>
                             </div>
                         </div>
@@ -2342,14 +2342,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #E7890C">Your fortune: Good Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2026, 00:44:43 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Apr 2026, 01:25:55 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
