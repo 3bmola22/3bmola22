@@ -1719,7 +1719,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI uncovers 38 vulnerabilities in largest open source medical record software</div>
+                                <div class="title">AISLE Discovers 38 CVEs in OpenEMR Healthcare Software</div>
                                 <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
@@ -1737,7 +1737,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google and Pentagon reportedly agree on deal for 'any lawful' use of AI</div>
+                                <div class="title">Claude.ai is unavailable</div>
                                 <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
@@ -2358,14 +2358,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2026, 19:57:26 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Apr 2026, 21:23:56 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
