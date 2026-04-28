@@ -1710,7 +1710,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Social Edge of Intelligence: Individual Gain, Collective Loss</div>
+                                <div class="title">Localsend: An open-source cross-platform alternative to AirDrop</div>
                                 <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
@@ -1719,7 +1719,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Talkie: a 13B vintage language model from 1930</div>
+                                <div class="title">Microsoft VibeVoice: Open-Source Frontier Voice AI</div>
                                 <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
@@ -1728,8 +1728,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The World's Most Complex Machine</div>
-                                <div class="date">25 Apr 2026</div>
+                                <div class="title">Show HN: Live Sun and Moon Dashboard with NASA Footage</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1737,8 +1737,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft and OpenAI end their exclusive and revenue-sharing deal</div>
-                                <div class="date">27 Apr 2026</div>
+                                <div class="title">OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership</div>
+                                <div class="date">28 Apr 2026</div>
                             </div>
                         </div>
                     </section>
@@ -2358,14 +2358,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2026, 14:50:34 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Apr 2026, 17:28:45 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
