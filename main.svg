@@ -1709,7 +1709,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Soft launch of open-source code platform for government</div>
+                                <div class="title">Zed 1.0</div>
                                 <div class="date">29 Apr 2026</div>
                             </div>
                         </div>
@@ -1718,8 +1718,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ghostty is leaving GitHub</div>
-                                <div class="date">28 Apr 2026</div>
+                                <div class="title">Why AI companies want you to be afraid of them</div>
+                                <div class="date">29 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1736,7 +1736,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">HashiCorp co-founder says GitHub 'no longer a place for serious work'</div>
+                                <div class="title">Soft launch of open-source code platform for government</div>
                                 <div class="date">29 Apr 2026</div>
                             </div>
                         </div>
@@ -2365,7 +2365,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Apr 2026, 17:12:47 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Apr 2026, 19:46:09 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
