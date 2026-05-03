@@ -1572,7 +1572,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>3bmola22/Portfolio</span>
-                                        <span>created 7 days ago</span>
+                                        <span>created 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">build 90% Ai Claude</div>
@@ -1692,7 +1692,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Couple Million Lines of Haskell: Production Engineering at Mercury</div>
+                                <div class="title">Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge</div>
                                 <div class="date">3 May 2026</div>
                             </div>
                         </div>
@@ -1710,7 +1710,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open Source Does Not Imply Open Community</div>
+                                <div class="title">A Couple Million Lines of Haskell: Production Engineering at Mercury</div>
                                 <div class="date">3 May 2026</div>
                             </div>
                         </div>
@@ -2345,14 +2345,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
+                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 May 2026, 06:46:00 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2026, 09:30:51 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
