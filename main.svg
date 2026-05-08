@@ -1562,7 +1562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>3bmola22/Portfolio</span>
-                                        <span>created 12 days ago</span>
+                                        <span>created 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">build 90% Ai Claude</div>
@@ -1700,7 +1700,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dirtyfrag: Universal Linux LPE</div>
+                                <div class="title">Cloudflare to cut about 20% workforce</div>
                                 <div class="date">7 May 2026</div>
                             </div>
                         </div>
@@ -1709,8 +1709,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pinocchio is weirder than you remembered</div>
-                                <div class="date">6 May 2026</div>
+                                <div class="title">Dirtyfrag: Universal Linux LPE</div>
+                                <div class="date">7 May 2026</div>
                             </div>
                         </div>
                     </section>
@@ -2342,14 +2342,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 May 2026, 06:48:07 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2026, 09:02:35 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
