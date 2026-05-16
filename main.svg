@@ -1696,7 +1696,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Futhark by Example</div>
+                                <div class="title">Accelerando (2005)</div>
                                 <div class="date">16 May 2026</div>
                             </div>
                         </div>
@@ -1705,8 +1705,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Project Gutenberg – keeps getting better</div>
-                                <div class="date">15 May 2026</div>
+                                <div class="title">SANA-WM, a 2.6B open-source world model for 1-minute 720p video</div>
+                                <div class="date">16 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1714,7 +1714,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We've made the world too complicated</div>
+                                <div class="title">Futhark by Example</div>
                                 <div class="date">16 May 2026</div>
                             </div>
                         </div>
@@ -2357,14 +2357,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2026, 14:06:28 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 May 2026, 16:43:48 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
